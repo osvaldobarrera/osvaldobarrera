@@ -1,5 +1,9 @@
-### Hi there 👋
+<a href="https://github.com/osvaldobarrera/github-stats-transparent">
 
+![](https://raw.githubusercontent.com/osvaldobarrera/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/osvaldobarrera/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 <!--
 **osvaldobarrera/osvaldobarrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
